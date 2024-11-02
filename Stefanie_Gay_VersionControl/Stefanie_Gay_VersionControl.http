@@ -1,0 +1,6 @@
+@Stefanie_Gay_VersionControl_HostAddress = http://localhost:5032
+
+GET {{Stefanie_Gay_VersionControl_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
